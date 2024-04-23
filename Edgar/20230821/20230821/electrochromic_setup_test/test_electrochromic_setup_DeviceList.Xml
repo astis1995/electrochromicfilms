@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<DeviceList>
+  <version>8.1</version>
+  <Serial_1108033U1>
+    <IntegrationTime>341.197479248047</IntegrationTime>
+    <Averages>1</Averages>
+    <CorDynDark>1</CorDynDark>
+    <DriftSourceIdentity />
+    <MergeGroupName />
+    <MasterIdentity />
+    <FriendlyName>1108033U1</FriendlyName>
+    <LineColor>16711680</LineColor>
+    <DeviceLinkMode>0</DeviceLinkMode>
+    <MergeEnabled>0</MergeEnabled>
+    <ExternalTrigger>0</ExternalTrigger>
+    <ExternalTriggerType>0</ExternalTriggerType>
+    <ScansPerTrigger>1</ScansPerTrigger>
+    <CustomWhiteReflectanceFile>C:\Users\Autolab\Avantes\AvaSoft8\Default2.wst</CustomWhiteReflectanceFile>
+    <CustomDarkReflectanceFile>C:\Users\Autolab\Avantes\AvaSoft8\Default2.dst</CustomDarkReflectanceFile>
+    <ShutTriggerOnSaveDark>0</ShutTriggerOnSaveDark>
+    <ShutExceptWhenMeasuring>0</ShutExceptWhenMeasuring>
+    <XeDevice>0</XeDevice>
+    <FlashesPerScan>0</FlashesPerScan>
+    <FrequencyLimit>0</FrequencyLimit>
+    <NumberOfCalibrations>5</NumberOfCalibrations>
+    <WLCalibration0name />
+    <WLCalibration0fit0>0</WLCalibration0fit0>
+    <WLCalibration0fit1>0</WLCalibration0fit1>
+    <WLCalibration0fit2>0</WLCalibration0fit2>
+    <WLCalibration0fit3>0</WLCalibration0fit3>
+    <WLCalibration0fit4>0</WLCalibration0fit4>
+    <WLCalibration1name />
+    <WLCalibration1fit0>0</WLCalibration1fit0>
+    <WLCalibration1fit1>0</WLCalibration1fit1>
+    <WLCalibration1fit2>0</WLCalibration1fit2>
+    <WLCalibration1fit3>0</WLCalibration1fit3>
+    <WLCalibration1fit4>0</WLCalibration1fit4>
+    <WLCalibration2name />
+    <WLCalibration2fit0>0</WLCalibration2fit0>
+    <WLCalibration2fit1>0</WLCalibration2fit1>
+    <WLCalibration2fit2>0</WLCalibration2fit2>
+    <WLCalibration2fit3>0</WLCalibration2fit3>
+    <WLCalibration2fit4>0</WLCalibration2fit4>
+    <WLCalibration3name />
+    <WLCalibration3fit0>0</WLCalibration3fit0>
+    <WLCalibration3fit1>0</WLCalibration3fit1>
+    <WLCalibration3fit2>0</WLCalibration3fit2>
+    <WLCalibration3fit3>0</WLCalibration3fit3>
+    <WLCalibration3fit4>0</WLCalibration3fit4>
+    <WLCalibration4name />
+    <WLCalibration4fit0>0</WLCalibration4fit0>
+    <WLCalibration4fit1>0</WLCalibration4fit1>
+    <WLCalibration4fit2>0</WLCalibration4fit2>
+    <WLCalibration4fit3>0</WLCalibration4fit3>
+    <WLCalibration4fit4>0</WLCalibration4fit4>
+    <MeasureParameters>AAAQC0eZqkMAAAAAAQAAAAFkCgAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</MeasureParameters>
+    <Detector>BQ==</Detector>
+    <ColorTemperature>2850</ColorTemperature>
+    <Frequency>500</Frequency>
+    <DutyCycle>0</DutyCycle>
+    <StoreToRamSize>1</StoreToRamSize>
+    <CustomReflectance>0</CustomReflectance>
+    <Wavelength>
+      <Intercept>178.348220825195</Intercept>
+      <FirstCoefficient>0.342117011547089</FirstCoefficient>
+      <SecondCoefficient>-4.33357945439639E-6</SecondCoefficient>
+      <ThirdCoefficient>-5.40682942862247E-10</ThirdCoefficient>
+      <FourthCoefficient>0</FourthCoefficient>
+    </Wavelength>
+    <DigitalInOpts>AAAA</DigitalInOpts>
+    <DriftOpts>AAA=</DriftOpts>
+    <PreScan>1</PreScan>
+    <SenseMode>-1</SenseMode>
+    <SLSEnabled>0</SLSEnabled>
+    <SLSMultiFact>1</SLSMultiFact>
+  </Serial_1108033U1>
+</DeviceList>
