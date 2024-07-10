@@ -1,0 +1,3 @@
+Esta es una foto de SEM para el método del potencial continuo. 
+Corresponde a una magnificación de 12000X. La del potencial continuo que está en la otra carpeta corresponde a una magnificación de 20000X.
+Sin embargo, esta nos sirve. Lo que se puede observar es que la muestra es muy compacta, aparte de unas basuras que se ven encima de la película. De hecho, costaba mucho enfocar para magnitudes superiores porque no habían muchos detalles.

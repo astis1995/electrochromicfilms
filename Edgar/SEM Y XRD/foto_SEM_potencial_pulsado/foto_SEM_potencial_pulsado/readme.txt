@@ -1,0 +1,1 @@
+En este caso, se ve claramente que a muestra resultante para  caso el potencial pulsado es más porosa que la correspondiente l potencial continuo.
